@@ -1,11 +1,1 @@
-﻿  Basketball_Match_cpp.cpp
-  Club.cpp
-  Game.cpp
-C:\Users\User\source\repos\Basketball_Match_cpp\Basketball_Match_cpp\Basketball_Match_cpp.cpp(14,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\User\source\repos\Basketball_Match_cpp\Basketball_Match_cpp\Game.cpp(54,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\User\source\repos\Basketball_Match_cpp\Basketball_Match_cpp\Game.cpp(82,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\User\source\repos\Basketball_Match_cpp\Basketball_Match_cpp\Game.cpp(112,20): warning C4018:  '<': signed/unsigned mismatch
-  Player.cpp
-  Generating Code...
-C:\Users\User\source\repos\Basketball_Match_cpp\Basketball_Match_cpp\Game.cpp(119,20): warning C4018:  '<': signed/unsigned mismatch
-  Basketball_Match_cpp.vcxproj -> C:\Users\User\source\repos\Basketball_Match_cpp\Debug\Basketball_Match_cpp.exe
+﻿  Basketball_Match_cpp.vcxproj -> F:\Github Projects\Cpp-Basketball-Match\Debug\Basketball_Match_cpp.exe
